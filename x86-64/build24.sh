@@ -59,7 +59,7 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES linkease/luci-app-store"
 PACKAGES="$PACKAGES linkease/luci-app-quickstart"
 PACKAGES="$PACKAGES luci-app-adguardhome"
-PACKAGES="$PACKAGES luci-app-openclash
+PACKAGES="$PACKAGES luci-app-openclash"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
