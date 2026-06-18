@@ -56,7 +56,7 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
-PACKAGES="$PACKAGES uci-app-openclash_0.47.071_all.ipk"
+PACKAGES="$PACKAGES uci-app-openclash"
 PACKAGES="$PACKAGES luci-app-adguardhome"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
